@@ -1,4 +1,4 @@
-![MasterHead](	https://wallpaperaccess.com/full/1657878.jpg)
+![MasterHead](https://wallpaperaccess.com/full/1424893.jpg)
 <h1 align="center">Hello World! 👋, I'm Suraj👨‍💻</h1>
 <h3 align="center">I am a Tech enthusiast 😉</h3>
 <img align="right" alt="Coding" width="400" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif">
