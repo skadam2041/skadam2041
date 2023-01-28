@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **FullStack Developement and Problem Solving Skills**
+- 🔭 I’m currently working on **FullStack Developement Projects and Problem Solving Skills**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
