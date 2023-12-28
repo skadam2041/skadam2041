@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects/Web Developement Projects**
 
-- 💬 Ask me about **DSA, Java, C++ , HTML , CSS, JS , Linux**
+- 💬 Ask me about **DSA, Java, Spring and SpringBoot, DBMS, C++ , HTML , CSS, JS , Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
